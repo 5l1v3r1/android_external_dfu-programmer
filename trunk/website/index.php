@@ -34,6 +34,7 @@
       <a href="http://www.atmel.com/dyn/products/tools_card.asp?family_id=604&amp;family_name=8051+Architecture&amp;tool_id=2767">&#8250; flip</a>
       <a href="http://libusb.sourceforge.net/">&#8250; libusb</a>
       <a href="http://sdcc.sourceforge.net/">&#8250; sdcc</a>
+      <a href="http://www.nongnu.org/avr-libc">&#8250; avr-libc</a>
     </div>
 
     <!-- ###### Body Text ###### -->
