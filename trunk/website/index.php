@@ -21,7 +21,7 @@
         <span title="Home">Home</span>|
         <span title="Summary"><a href="http://sourceforge.net/projects/dfu-programmer">Summary</a></span>|
         <span title="Releases"><a href="http://sourceforge.net/project/showfiles.php?group_id=147246">Releases</a></span>|
-        <span title="CVS"><a href="http://sourceforge.net/cvs/?group_id=147246">CVS</a></span>
+        <span title="Subversion"><a href="https://sourceforge.net/svn/?group_id=147246">Subversion</a></span>
       </div>
     </div>
 
