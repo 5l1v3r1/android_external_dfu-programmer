@@ -50,19 +50,14 @@
       <h1 id="chips">Supported Chips</h1>
       <dl>
         <dd>
-          <ul>
-            <!-- Left column, right column, etc. -->
-            <li class="header"><dt>8051 Chips</dt></li>
-            <li class="header"><dt>AVR Chips</dt></li>
-            <li>at89c51snd1c</li>
-            <li>at90usb1287</li>
-            <li>at89c5130</li>
-            <li>at90usb1286</li>
-            <li>at89c5131</li>
-            <li>at90usb647</li>
-            <li>at89c5132</li>
-            <li>at90usb646</li>
-          </ul>
+          <table>
+            <tr><th>8051 Chips</th><th>AVR Chips</th></tr>
+            <tr><td>a89c51snd1c</td><td>at90usb1287</td></tr>
+            <tr><td>at89c51snd1c</td><td>at90usb1287</td></tr>
+            <tr><td>at89c5130</td><td>at90usb1286</td></tr>
+            <tr><td>at89c5131</td><td>at90usb647</td></tr>
+            <tr><td>at89c5132</td><td>at90usb646</td></tr>
+          </table>
         </dd>
       </dl>
 

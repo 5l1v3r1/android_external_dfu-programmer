@@ -90,24 +90,6 @@ dd {
   padding-bottom: 1.5em;
 }
 
-ul {
-  float: left;
-  width: 30em;
-  margin: 0;
-  padding: 0;
-  padding-right: 100%;
-  padding-bottom: 1.5em;
-  list-style: none;
-}
-
-li {
-  float: left;
-  width: 15em;
-  margin: 0;
-  padding: 0;
-  line-height: 1.5em;
-}
-
 #bodyText {
   text-align: justify;
   line-height: 1.5em;
@@ -264,12 +246,22 @@ table {
   font-size: 95%;
 }
 
+td {
+  padding-left: 2ex;
+  padding-right: 2ex;
+}
+
 td a {
   text-decoration: none;
 }
 
 td a:hover {
   text-decoration: underline;
+}
+
+th {
+  padding-left: 2ex;
+  padding-right: 2ex;
 }
 
 th a {
