@@ -52,7 +52,6 @@
         <dd>
           <table>
             <tr><th>8051 Chips</th><th>AVR Chips</th></tr>
-            <tr><td>a89c51snd1c</td><td>at90usb1287</td></tr>
             <tr><td>at89c51snd1c</td><td>at90usb1287</td></tr>
             <tr><td>at89c5130</td><td>at90usb1286</td></tr>
             <tr><td>at89c5131</td><td>at90usb647</td></tr>
