@@ -41,42 +41,39 @@
 
     <div id="bodyText">
       <h1 id="welcome">Welcome</h1>
-      <p>dfu-programmer is a Device Firmware Update based USB programmer
-         for Atmel chips with a USB bootloader.</p>
+      <dl>
+        <dd>dfu-programmer is a Device Firmware Update based USB programmer
+            for Atmel chips with a USB bootloader.</dd>
+      </dl>
 
-      <h1 id="news">News</h1>
-      <?php
-          $src = 'http://sourceforge.net/export/projnews.php?group_id=147246&limit=5&flat=0&show_summaries=1';
-
-          $data = file_get_contents($src, "rb");
-          echo( $data );
-      ?>
       <a class="topOfPage" href="#top" title="Top Of Page">top</a>
-      <h1 id="releases">Old News</h1>
+      <h1 id="chips">Supported Chips</h1>
       <dl>
-        <dt>May 07, 2006 - Release 0.2.2</dt>
-        <dd>This is a minor fix release that fixes a segmentation fault error when only
-            the usage is displayed.  Additionally I updated contact email addresses.</dd>
-      </dl>
-      <dl>
-        <dt>Nov 21, 2005 - Release 0.2.1</dt>
-        <dd>This is a minor fix release that fixes problems run into in the 2.6.14 kernel.
-            Additionally, the man page has been updated.</dd>
+        <dd>
+          <ul>
+            <!-- Left column, right column, etc. -->
+            <li class="header"><dt>8051 Chips</dt></li>
+            <li class="header"><dt>AVR Chips</dt></li>
+            <li>at89c51snd1c</li>
+            <li>at90usb1287</li>
+            <li>at89c5130</li>
+            <li>at90usb1286</li>
+            <li>at89c5131</li>
+            <li>at90usb647</li>
+            <li>at89c5132</li>
+            <li>at90usb646</li>
+          </ul>
+        </dd>
       </dl>
 
+      <a class="topOfPage" href="#top" title="Top Of Page">top</a>
+      <h1 id="news">News</h1>
       <dl>
-        <dt>Sept 24, 2005 - Release 0.2.0</dt>
-        <dd>This release adds limited support for the at89c5132, at89c5131 and at89c5130 chips.
-            The known limitation is that P1_CF, P3_CF, and P4_CF configuration registers are
-            not supported (read or write).<br/><br/>
-            Much thanks to Reinhard Arlt who supplied the initial patch for the at89c5132.</dd>
-      </dl>
-
-      <dl>
-        <dt>Sept 1, 2005 - Release 0.1.0</dt>
-        <dd>The initial release of dfu-programmer.  Make sure it has the
-            correct permissions to open the USB device, otherwise you
-            may experience a segmentation fault.</dd>
+        <dd><?php
+              $src = 'http://sourceforge.net/export/projnews.php?group_id=147246&limit=5&flat=0&show_summaries=1';
+              $data = file_get_contents($src, "rb");
+              echo( $data );
+          ?></dd>
       </dl>
 
       <a class="topOfPage" href="#top" title="Top Of Page">top</a>
@@ -90,6 +87,8 @@
            describing the communications protocol used.  I happily spent the
            next week hacking together the start of dfu-programmer.</dd>
       </dl>
+
+      <a class="topOfPage" href="#top" title="Top Of Page">top</a>
       <h1 id="contact">Contact Information</h1>
       <dl>
         <dd>The <a href="http://sourceforge.net/mail/?group_id=147246">mailing list</a> is the preferred communication method.</dd>

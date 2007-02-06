@@ -90,6 +90,24 @@ dd {
   padding-bottom: 1.5em;
 }
 
+ul {
+  float: left;
+  width: 30em;
+  margin: 0;
+  padding: 0;
+  padding-right: 100%;
+  padding-bottom: 1.5em;
+  list-style: none;
+}
+
+li {
+  float: left;
+  width: 15em;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
+}
+
 #bodyText {
   text-align: justify;
   line-height: 1.5em;
