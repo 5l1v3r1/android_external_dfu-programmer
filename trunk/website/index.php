@@ -56,6 +56,8 @@
             <tr><td>at89c5130</td><td>at90usb1286</td></tr>
             <tr><td>at89c5131</td><td>at90usb647</td></tr>
             <tr><td>at89c5132</td><td>at90usb646</td></tr>
+            <tr><td></td><td>at90usb162</td></tr>
+            <tr><td></td><td>at90usb82</td></tr>
           </table>
         </dd>
       </dl>
