@@ -52,17 +52,17 @@
         <dd>
           <table>
             <tr><th>8051 Chips</th>  <th>AVR Chips</th>  <th>AVR32 Chips (A)</th><th>AVR32 Chips (B)</th><th>AVR32 Chips (C)</th></tr>
-            <tr><td>at89c51snd1c</td><td>at90usb1286</td><td>at32uc3a0128</td>   <td>at32uc3b064</td>    <td>a32uc3c064</td>     </tr>
-            <tr><td>at89c51snd2c</td><td>at90usb1287</td><td>at32uc3a1128</td>   <td>at32uc3b164</td>    <td>a32uc3c0128</td>    </tr>
-            <tr><td>at89c5130</td>   <td>at90usb162</td> <td>at32uc3a0256</td>   <td>at32uc3b0128</td>   <td>a32uc3c0265</td>    </tr>
-            <tr><td>at89c5131</td>   <td>at90usb646</td> <td>at32uc3a1256</td>   <td>at32uc3b1128</td>   <td>a32uc3c0512</td>    </tr>
-            <tr><td>at89c5132</td>   <td>at90usb647</td> <td>at32uc3a0512</td>   <td>at32uc3b0256</td>   <td>a32uc3c1128</td>    </tr>
-            <tr><td></td>            <td>at90usb82</td>  <td>at32uc3a1512</td>   <td>at32uc3b1256</td>   <td>a32uc3c1256</td>    </tr>
-            <tr><td></td>            <td>atmega16u4</td> <td>at32uc3a0512es</td> <td>at32uc3b0256es</td> <td>a32uc3c1512</td>    </tr>
-            <tr><td></td>            <td>atmega32u4</td> <td>at32uc3a1512es</td> <td>at32uc3b1256es</td> <td>a32uc3c264</td>     </tr>
-            <tr><td></td>            <td>atmega32u6</td> <td>at32uc3a364</td>    <td></td>               <td>a32uc3c2128</td>    </tr>
-            <tr><td></td>            <td></td>           <td>at32uc3a364s</td>   <td></td>               <td>a32uc3c2256</td>    </tr>
-            <tr><td></td>            <td></td>           <td>at32uc3a3128</td>   <td></td>               <td>a32uc3c2512</td>    </tr>
+            <tr><td>at89c51snd1c</td><td>at90usb1286</td><td>at32uc3a0128</td>   <td>at32uc3b064</td>    <td>at32uc3c064</td>    </tr>
+            <tr><td>at89c51snd2c</td><td>at90usb1287</td><td>at32uc3a1128</td>   <td>at32uc3b164</td>    <td>at32uc3c0128</td>   </tr>
+            <tr><td>at89c5130</td>   <td>at90usb162</td> <td>at32uc3a0256</td>   <td>at32uc3b0128</td>   <td>at32uc3c0265</td>   </tr>
+            <tr><td>at89c5131</td>   <td>at90usb646</td> <td>at32uc3a1256</td>   <td>at32uc3b1128</td>   <td>at32uc3c0512</td>   </tr>
+            <tr><td>at89c5132</td>   <td>at90usb647</td> <td>at32uc3a0512</td>   <td>at32uc3b0256</td>   <td>at32uc3c1128</td>   </tr>
+            <tr><td></td>            <td>at90usb82</td>  <td>at32uc3a1512</td>   <td>at32uc3b1256</td>   <td>at32uc3c1256</td>   </tr>
+            <tr><td></td>            <td>atmega16u4</td> <td>at32uc3a0512es</td> <td>at32uc3b0256es</td> <td>at32uc3c1512</td>   </tr>
+            <tr><td></td>            <td>atmega32u4</td> <td>at32uc3a1512es</td> <td>at32uc3b1256es</td> <td>at32uc3c264</td>    </tr>
+            <tr><td></td>            <td>atmega32u6</td> <td>at32uc3a364</td>    <td></td>               <td>at32uc3c2128</td>   </tr>
+            <tr><td></td>            <td></td>           <td>at32uc3a364s</td>   <td></td>               <td>at32uc3c2256</td>   </tr>
+            <tr><td></td>            <td></td>           <td>at32uc3a3128</td>   <td></td>               <td>at32uc3c2512</td>   </tr>
             <tr><td></td>            <td></td>           <td>at32uc3a3128s</td>  <td></td>               <td></td>               </tr>
             <tr><td></td>            <td></td>           <td>at32uc3a3256</td>   <td></td>               <td></td>               </tr>
             <tr><td></td>            <td></td>           <td>at32uc3a3256s</td>  <td></td>               <td></td>               </tr>
